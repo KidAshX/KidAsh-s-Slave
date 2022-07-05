@@ -4,6 +4,7 @@
   "main": "bot.js",
   "version": "2.1.5",
   "dependencies": {
+    "chalk": "^5.0.1",
     "discord.js": "^13.8.0",
     "fstorm": "latest",
     "graceful-fs": "^4.2.10",
